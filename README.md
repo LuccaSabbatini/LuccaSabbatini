@@ -29,8 +29,6 @@ Here are some projects that reflect how I think about engineering and AI:
 - **Cloud-based Backend Services**  
   Scalable APIs and services designed for real-world usage.
 
-*(More details inside each repository.)*
-
 ---
 
 ## 🎯 What I care about
